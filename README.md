@@ -12,7 +12,7 @@
 
 ## 🧰 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,js,ts,html,css,react,java,python,mysql,postgres,mongodb,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,js,ts,html,css,react,java,python,mysql,mongodb,git,docker,linux" />
 </div>
 
 ---
