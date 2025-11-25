@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuoc Thuan</h1>
-<h3 align="center">Software Developer | .NET | Mobile Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">Software Developer | Mobile Developer | Full-Stack Enthusiast</h3>
 
 ---
 
