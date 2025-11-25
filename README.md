@@ -35,8 +35,8 @@ Detects phishing patterns using AI.
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuocthuan&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuocthuan&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=phuocthuan123vt&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuocthuan123vt&theme=tokyonight" height="160">
 </div>
 
 ---
