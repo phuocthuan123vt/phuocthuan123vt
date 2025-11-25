@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Phuoc Thuan</h1>
-<h3 align="center">Software Developer | .NET | Flutter | Full-Stack Enthusiast</h3>
+<h3 align="center">Software Developer | .NET | Mobile Developer | Full-Stack Enthusiast</h3>
 
 ---
 
 ## 🔥 About Me
-- 🌱 I’m currently learning **.NET 8, Flutter, Cloud Services**
+- 🌱 I’m currently learning **.NET 8, Java, Flutter, Cloud Services**
 - 💼 I build full-stack applications and solve real-world problems  
 - 🚀 Passionate about clean architecture & modern UI  
 
@@ -19,14 +19,21 @@
 
 ## 📌 Featured Projects
 
-### 📘 BookStore Management System
-A full-stack bookstore management system.  
-**Tech:** .NET 8, Flutter, PostgreSQL  
-🔗 [Repository](https://github.com/yourusername/bookstore-app)
+### 📘 MyMoney
+A money management application.  
+**Tech:** WPF, SQLite  
+🔗 [Repository](https://github.com/phuocthuan123vt/MyMoney)
 
 ---
 
-### 🤖 AI Suspicious Email/Image Detector
+### 📘 BookStore Management System
+A full-stack bookstore management system.  
+**Tech:** .NET 8, Flutter, PostgreSQL  
+🔗 [Repository](https://github.com/phuocthuan123vt/SE104.Q11-BookstoreManagement)
+
+---
+
+### 🤖 AI Suspicious Email/Image Detector ( coming soon )
 Detects phishing patterns using AI.  
 **Tech:** Python, FastAPI  
 🔗 (repo link)
