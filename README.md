@@ -34,9 +34,14 @@ Detects phishing patterns using AI.
 ---
 
 ## 📊 GitHub Stats
+### 🔥 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuocthuan123vt&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuocthuan123vt&theme=tokyonight" height="160">
+  <img src="https://ghchart.rshah.org/18A0FB/phuocthuan123vt" alt="phuocthuan123vt github chart" />
+</div>
+
+### 🧩 Profile Trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phuocthuan123vt&theme=onedark&no-frame=true&column=6" />
 </div>
 
 ---
