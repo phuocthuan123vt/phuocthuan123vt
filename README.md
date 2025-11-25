@@ -55,5 +55,5 @@ Detects phishing patterns using AI.
 
 ## 📬 Contact Me
 📧 Email: phuocthuan100@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/lyphuocthuan/
+🔗 LinkedIn: https://www.linkedin.com/in/lyphuocthuan
 🌐 Portfolio: soon
