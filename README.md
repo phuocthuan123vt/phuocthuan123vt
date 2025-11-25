@@ -20,7 +20,7 @@
 ## 📌 Featured Projects
 
 ### 📘 MyMoney
-A money management application.  
+Personal & Family Expense Manager.  
 **Tech:** WPF, SQLite  
 🔗 [Repository](https://github.com/phuocthuan123vt/MyMoney)
 
