@@ -40,16 +40,10 @@ Detects phishing patterns using AI.
 
 ---
 
-## 📊 GitHub Stats
-### 🔥 Contribution Graph
-<div align="center">
-  <img src="https://ghchart.rshah.org/18A0FB/phuocthuan123vt" alt="phuocthuan123vt github chart" />
-</div>
+<h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
 
-### 🧩 Profile Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phuocthuan123vt&theme=onedark&no-frame=true&column=6" />
-</div>
+<a href="#">![Achievements](https://github-readme-stats.vercel.app/api?username=phuocthuan123vt&theme=holi&count_private=true&hide_border=true&rank_icon=github&line_height=20)</a>
+<a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocthuan123vt&layout=compact&theme=holi&count_private=true&hide_border=true)</a>
 
 ---
 
